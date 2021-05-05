@@ -1,6 +1,6 @@
 {
   "name": "@kiegroup/monaco-editor",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Single-file build of monaco-editor.",
   "main": "dist/standalone/monaco.min.js",
   "types": "dist/standalone/monaco.min.d.ts",
